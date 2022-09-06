@@ -4,8 +4,19 @@ body{
     padding: 0px;
 }
 
-#view-all{
-  
-    margin-left:45%;
-    
+#view-all{  
+    margin-left:45%;    
+}
+.carousel-caption button,p {
+     font-size: 18px;
+     padding: 8px;
+}
+.carousel-caption h1{
+    font-size: 45px;
+}
+
+@media screen and (max-width:992px){
+    #trasted-company{
+        display: none;
+    }
 }
