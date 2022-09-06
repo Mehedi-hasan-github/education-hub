@@ -15,8 +15,8 @@ body{
     font-size: 45px;
 }
 
-@media screen and (max-width:992px){
-    #trasted-company{
-        display: none;
+
+    #trasted-company img{
+       margin-top: 15px;
     }
-}
+ 
